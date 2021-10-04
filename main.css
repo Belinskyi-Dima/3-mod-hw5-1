@@ -1,0 +1,33 @@
+#root {
+	width: 500px;
+	margin: 0 auto;
+	font-size: 16px;
+}
+ul {
+	margin: 0 auto;
+	text-align: left;
+	/* padding: 5px; */
+	list-style: none;
+	/* height: 300px; */
+	border: 1px solid rgb(151, 147, 147);
+	border-radius: 5px;
+	margin-bottom: 30px;
+
+}
+p:nth-child(2) {
+	margin-bottom: 15px;
+}
+li{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid rgba(196, 181, 181, 0.344);
+}
+button {
+	line-height: 1.5;
+	background: rgb(226, 233, 232);
+	border: none;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	color:rgb(75, 74, 74);
+	cursor: pointer;
+}
